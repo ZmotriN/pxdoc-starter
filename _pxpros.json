@@ -1,0 +1,15 @@
+{
+    "data": {
+        "project": "PXDoc",
+        "baseurl": "https://magicthelisterine.github.io/",
+        "author": "Diametrick",
+        "lang": "fr_ca",
+        "gtag": ""
+    },
+    "includes": [
+        "pxdoc/_includes/functions.php",
+        "pxdoc/_includes/hooks.php"
+    ],
+    "before": "pxdoc/_includes/before.php",
+    "after": "pxdoc/_includes/after.php"
+}

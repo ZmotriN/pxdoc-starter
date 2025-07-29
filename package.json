@@ -1,0 +1,7 @@
+{
+	"dependencies": {
+		"php-bulk-installer": "^1.1.2",
+		"esbuild": "^0.25.8",
+		"sass": "^1.89.2"
+	}
+}
