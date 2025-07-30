@@ -1,10 +1,13 @@
 {
     "data": {
         "project": "PXDoc",
-        "baseurl": "https://magicthelisterine.github.io/",
+        "baseurl": "https://zmotrin.github.io/pxdoc-starter/",
         "author": "Diametrick",
         "lang": "fr_ca",
-        "gtag": ""
+        "gtag": "",
+        "favicon": "pxdoc/images/favicon.ico",
+        "image": "",
+        "logo": ""
     },
     "includes": [
         "pxdoc/_includes/functions.php",
