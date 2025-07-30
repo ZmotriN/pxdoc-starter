@@ -1,10 +1,10 @@
 <?php 
 /**
  * @type     article
- * @title    Magic The Listerine
- * @icon     assets/images/logo-textless.svg
+ * @title    PXDoc
+ * @icon     pxdoc/images/logo.svg
  * @image    assets/images/og-image.webp
- * @abstract Un projet de création de cartes Magic québécoises.
+ * @abstract PX Documenter.
  */
 ?>
  
@@ -15,8 +15,6 @@
 <dots></dots>
 
 <grostitre>À propos</grostitre>
-
-<h3>Crédits</h3>
 
 <ul>
     <li>Développeur: <em>Maxime Larrivée-Roy</em></li>
