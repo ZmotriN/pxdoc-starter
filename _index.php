@@ -4,12 +4,11 @@
  * @title    PXDoc
  * @icon     pxdoc/images/logo.svg
  * @image    assets/images/og-image.webp
- * @abstract PX Documenter.
+ * @abstract PHP driven static website engine.
  */
 ?>
- 
-Allo
- 
+
+
 <grostitre>Introduction</grostitre>
 
 <dots></dots>
