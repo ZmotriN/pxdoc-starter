@@ -12,7 +12,7 @@
 <grostitre>Introduction</grostitre>
 
 
-<p>PXDoc est une solution innovante qui permet de transformer facilement des fichiers PHP en pages statiques, optimisées pour être hébergées sur des plateformes comme GitHub et Jekyll. Grâce à l'intégration transparente de composants Vue.js, PXDoc facilite la création et la gestion de contenu interactif pour vos besoins spécifiques.</p>
+<p><strong>PXDoc</strong> est une solution innovante qui permet de transformer facilement des fichiers PHP en pages statiques, optimisées pour être hébergées sur des plateformes comme GitHub et Jekyll. Grâce à l'intégration transparente de composants Vue.js, PXDoc facilite la création et la gestion de contenu interactif pour vos besoins spécifiques.</p>
 
 <h3>Caractéristiques Principales</h3>
 
