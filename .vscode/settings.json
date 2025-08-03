@@ -19,6 +19,12 @@
             "event": "onFileChange"
         },
         {
+            "match": "[\\\\/]pxdoc[\\\\/]jscripts[\\\\/].*(?<!\\.min)\\.js$",
+            "isAsync": false,
+            "cmd": "node ${workspaceRoot}/pxdoc/_bin/node/bundle-js.js",
+            "event": "onFileChange"
+        },
+        {
             "match": "[\\\\/](?!_)[^\\\\/]+\\.scss$",
             "isAsync": false,
             "cmd": "${workspaceRoot}/node_modules/.bin/sass \"${file}\" \"${fileDirname}/${fileBasenameNoExt}.min.css\" --style=compressed --no-source-map --quiet",
