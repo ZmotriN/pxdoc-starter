@@ -37,6 +37,7 @@
             "event": "onFileChange"
         }
 
-    ]
+    ],
+    "liveServer.settings.port": 5501
 
 }
