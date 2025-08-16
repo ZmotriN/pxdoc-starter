@@ -1,9 +1,7 @@
 {
   "recommendations": [
     "appulate.filewatcher",
-    "kisstkondoros.vscode-gutter-preview",
-    "ritwickdey.LiveServer",
-    "imoca.php-doc-comment-vscode-plugin"
+    "ritwickdey.LiveServer"
   ],
   "unwantedRecommendations": []
 }
